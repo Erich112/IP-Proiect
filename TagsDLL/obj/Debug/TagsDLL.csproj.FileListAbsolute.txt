@@ -1,0 +1,8 @@
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\TagsDLL\bin\Debug\TagsDLL.dll
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\TagsDLL\bin\Debug\TagsDLL.pdb
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\TagsDLL\bin\Debug\TagLibSharp.xml
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\TagsDLL\obj\Debug\TagsDLL.csproj.AssemblyReference.cache
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\TagsDLL\obj\Debug\TagsDLL.csproj.CoreCompileInputs.cache
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\TagsDLL\obj\Debug\TagsDLL.csproj.CopyComplete
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\TagsDLL\obj\Debug\TagsDLL.dll
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\TagsDLL\obj\Debug\TagsDLL.pdb
