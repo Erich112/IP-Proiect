@@ -1,0 +1,13 @@
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver2\MusicProiectIP\bin\Release\MusicProiectIP.exe.config
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver2\MusicProiectIP\bin\Release\MusicProiectIP.exe
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver2\MusicProiectIP\bin\Release\MusicProiectIP.pdb
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver2\MusicProiectIP\bin\Release\CSCore.dll
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver2\MusicProiectIP\bin\Release\CSCore.xml
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver2\MusicProiectIP\obj\Release\MusicProiectIP.csproj.AssemblyReference.cache
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver2\MusicProiectIP\obj\Release\MusicProiectIP.Form1.resources
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver2\MusicProiectIP\obj\Release\MusicProiectIP.Properties.Resources.resources
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver2\MusicProiectIP\obj\Release\MusicProiectIP.csproj.GenerateResource.cache
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver2\MusicProiectIP\obj\Release\MusicProiectIP.csproj.CoreCompileInputs.cache
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver2\MusicProiectIP\obj\Release\MusicProiectIP.csproj.CopyComplete
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver2\MusicProiectIP\obj\Release\MusicProiectIP.exe
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver2\MusicProiectIP\obj\Release\MusicProiectIP.pdb

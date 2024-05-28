@@ -1,0 +1,16 @@
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlayerDLL\bin\Debug\PlayerDLL.dll
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlayerDLL\bin\Debug\PlayerDLL.pdb
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlayerDLL\bin\Debug\CSCore.xml
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlayerDLL\obj\Debug\PlayerDLL.csproj.AssemblyReference.cache
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlayerDLL\obj\Debug\PlayerDLL.csproj.CoreCompileInputs.cache
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlayerDLL\obj\Debug\PlayerDLL.csproj.CopyComplete
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlayerDLL\obj\Debug\PlayerDLL.dll
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlayerDLL\obj\Debug\PlayerDLL.pdb
+C:\Users\Erich21\Desktop\MusicProiectIP_ver10_cu_comentarii\MusicProiectIP_ver10\PlayerDLL\bin\Debug\PlayerDLL.dll
+C:\Users\Erich21\Desktop\MusicProiectIP_ver10_cu_comentarii\MusicProiectIP_ver10\PlayerDLL\bin\Debug\PlayerDLL.pdb
+C:\Users\Erich21\Desktop\MusicProiectIP_ver10_cu_comentarii\MusicProiectIP_ver10\PlayerDLL\bin\Debug\CSCore.xml
+C:\Users\Erich21\Desktop\MusicProiectIP_ver10_cu_comentarii\MusicProiectIP_ver10\PlayerDLL\obj\Debug\PlayerDLL.csproj.AssemblyReference.cache
+C:\Users\Erich21\Desktop\MusicProiectIP_ver10_cu_comentarii\MusicProiectIP_ver10\PlayerDLL\obj\Debug\PlayerDLL.csproj.CoreCompileInputs.cache
+C:\Users\Erich21\Desktop\MusicProiectIP_ver10_cu_comentarii\MusicProiectIP_ver10\PlayerDLL\obj\Debug\PlayerDLL.csproj.CopyComplete
+C:\Users\Erich21\Desktop\MusicProiectIP_ver10_cu_comentarii\MusicProiectIP_ver10\PlayerDLL\obj\Debug\PlayerDLL.dll
+C:\Users\Erich21\Desktop\MusicProiectIP_ver10_cu_comentarii\MusicProiectIP_ver10\PlayerDLL\obj\Debug\PlayerDLL.pdb

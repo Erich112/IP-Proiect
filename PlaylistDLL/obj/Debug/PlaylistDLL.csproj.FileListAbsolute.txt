@@ -1,0 +1,6 @@
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlaylistDLL\bin\Debug\PlaylistDLL.dll
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlaylistDLL\bin\Debug\PlaylistDLL.pdb
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlaylistDLL\obj\Debug\PlaylistDLL.csproj.CoreCompileInputs.cache
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlaylistDLL\obj\Debug\PlaylistDLL.dll
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlaylistDLL\obj\Debug\PlaylistDLL.pdb
+E:\Cod\Facultate\Anul_3\Ingineria_programarii\PROIECT_IP_MP3_PLAYER\MusicProiectIP_ver8\PlaylistDLL\obj\Debug\PlaylistDLL.csproj.AssemblyReference.cache
